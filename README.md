@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @leCoqEstSeb
-- 👀 I’m interested in soccer, hiking and games
-- 🌱 I’m currently learning C#
+- 👋 Hi, I’m @shahnanigans
+- 👀 Preferred acitivites include hiking, boulderin, larp and other games.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me: not at all
+- 📫 How to reach me: if you see me, talk to me.
 
 <!---
 leCoqEstSeb/leCoqEstSeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
