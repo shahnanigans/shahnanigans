@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahnanigans
-- 👀 Preferred acitivites include hiking, boulderin, larp and other games.
+- 👀 Preferred acitivites include hiking, bouldering, larp and other games.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: if you see me, talk to me.
