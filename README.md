@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahnanigans
 - 👀 Preferred acitivites include hiking, bouldering, larp and other games.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 🌱 I’m currently learning linux stuff.
+- 💞️ I’m looking to collaborate on providing free software based infrastructure to communities.
 - 📫 How to reach me: if you see me, talk to me.
 
 <!---
