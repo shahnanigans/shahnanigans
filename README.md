@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahnanigans
+- 👋 Hi, I’m @shahnenigans
 - 👀 Preferred acitivites include hiking, bouldering, larp and other games.
 - 🌱 I’m currently learning linux stuff.
 - 💞️ I’m looking to collaborate on providing free software based infrastructure to communities.
